@@ -95,7 +95,7 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 ![qq邮箱配置01](https://s2.ax1x.com/2020/01/31/13cIKA.png "qq邮箱配置01")
 
-此时坑爹的QQ邮箱会要求你用手机发送一条短信给腾讯，发送完了点一下`我已发送`
+此时坑爹的QQ邮箱会要求你用手机发送一条短信给腾讯，发送完了点一下`我已经发送`
 
 ![qq邮箱配置02](https://s2.ax1x.com/2020/01/31/13c4vd.png "qq邮箱配置02")
 
